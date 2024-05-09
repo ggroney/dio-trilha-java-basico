@@ -7,7 +7,7 @@ while (expressão booleana de validação)
      // expressão de validação torne-se falsa 
 }*/
 
-//EXEMPLO: Joãozinho recebeu R$ 50,00 de mesada e foi em uma loja de doces gastar todo o seu dinheiro, logo, enquanto o valor dos doces não igualar a R$ 50,00 ele foi adicionando itens no carrinho.
+//EXEMPLO: Joãozinho recebeu R$ 50,00 de mesada e foi em uma loja de doces gastar todo o seu dinheiro, logo, enquanto o valor dos doces não igualar a R$ 50,00 ele foi adicionando itens no carrinho
 
 // ExemploWhile.java
 import java.util.concurrent.ThreadLocalRandom;
